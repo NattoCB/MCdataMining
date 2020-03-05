@@ -1,0 +1,9 @@
+name: MCdataMining
+main: com.snowk.mcdm.mcdm
+version: 1.0
+api-version: 1.12
+
+commands:
+  dm:
+    description: Main command of MCdataMining.
+    usage: /<command> (Startup error)
